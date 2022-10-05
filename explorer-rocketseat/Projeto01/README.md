@@ -10,17 +10,17 @@
   <img src="https://img.shields.io/github/stars/birobirobiro/lista-de-presenca?label=stars&message=MIT" alt="Stars">
 </p>
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
-This project was developed using the following technologies:
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML
 - CSS
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## 📝 Licenças
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ---
 
-Made with 💜 by [Petersonmatias](pmacielmatias@gmail.com) 👋
+Feito com 💜 por [Petersonmatias](pmacielmatias@gmail.com) 👋
