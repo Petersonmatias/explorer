@@ -23,4 +23,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Made with 💜 by [birobirobiro](https://www.birobirobiro.dev) 👋
+Made with 💜 by [Petersonmatias](pmacielmatias@gmail.com) 👋
