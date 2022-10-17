@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="preview-moveis-custmoizados" src=".github/preview.png">
+  <img alt="gif jogo adivinhacao" src=".github/gif.png">
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML
 - CSS
+- JS
 
 ## 📝 Licenças
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
