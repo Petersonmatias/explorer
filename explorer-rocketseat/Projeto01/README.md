@@ -21,6 +21,10 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## 📝 Licenças
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
+## 🎨 Inspiração:
+[
+https://www.figma.com/file/cMIJPwoogA98JQhrfO5xDy/Explorer---Projeto-01-(Copy)?node-id=0%3A1
+
 ---
 
 Feito com 💜 por [Petersonmatias](pmacielmatias@gmail.com) 👋
