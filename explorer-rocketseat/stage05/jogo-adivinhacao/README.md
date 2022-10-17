@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="gif jogo adivinhacao" src=".github/gif.png">
+  <img alt="gif jogo adivinhacao" src=".github/gif.gif">
 </p>
 
 <p align="center">
