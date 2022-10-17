@@ -29,4 +29,3 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 Feito com 💜 por [Petersonmatias](pmacielmatias@gmail.com) 👋
 
 
-https://github.com/Petersonmatias/explorer/tree/main/explorer-rocketseat/stage05/jogo-adivinhacao
