@@ -24,6 +24,9 @@ Foi desenvolvido utilizando as seguintes tecnologias:
 ## 📝 Licenças
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
+## 🎨 Inspiração:
+www.figma.com/file/iYzaEqfVpHi4roWJL9xOH1/Jogo-Adivinha%C3%A7%C3%A3o-(Copy)?node-id=0%3A1
+
 ---
 
 Feito com 💜 por [Petersonmatias](pmacielmatias@gmail.com) 👋
