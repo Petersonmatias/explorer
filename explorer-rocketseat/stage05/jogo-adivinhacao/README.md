@@ -13,7 +13,9 @@
 ## 🧪 Tecnologias
 
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+O foco do projeto era aprender a manipulação da DOM 
+
+Foi desenvolvido utilizando as seguintes tecnologias:
 
 - HTML
 - CSS
