@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="calculadora imc" src=".github/imc.png">
+  <img alt="calculadora imc" src=".github/imc.jpg">
 </p>
 
 <p align="center">
