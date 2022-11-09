@@ -3,7 +3,7 @@ Maratona Explorer Rockeseat
 </h1>
 
 <p align="center">
-  <img alt="" src=".github/maratona-explorer.jpg" width="100%">
+  <img alt="" src=".github/cronometro.jpg" width="100%">
 </p>
 
 <p align="center">
@@ -28,14 +28,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JS
-
-## 🚧 Projeto
-
-Live Preview: https://github.com/Petersonmatias/maratona-explorer.git
+- DOM
+- ES6
 
 ## 🎨 Inspiração:
 
-https://evento.rocketseat.com.br/maratona-explorer
+https://www.figma.com/file/8hReKtlrbLzRTlQ2g3NFyW/Explorer-Stage-05-Projeto-01-(Copy)?node-id=0%3A1
 
 ## :memo: Licença
 
